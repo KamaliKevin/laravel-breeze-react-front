@@ -1,3 +1,9 @@
+# Original Source
+<p>
+<a href="https://github.com/Nilanth/laravel-breeze-react">Laravel Breeze React</a>, 
+by <a href="https://github.com/Nilanth">Nilanth</a>
+</p>
+
 # Laravel Breeze - React Edition build with Vite
 
 <p align="left">
